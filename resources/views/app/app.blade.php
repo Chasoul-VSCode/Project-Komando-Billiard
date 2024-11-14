@@ -152,7 +152,7 @@
                         <a class="nav-link active" href="#"><i class="fas fa-home me-2"></i>Dashboard</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fas fa-info-circle me-2"></i>About Us</a>
+                        <a class="nav-link" href="{{ url('/booking') }}"><i class="fas fa-info-circle me-2"></i>Booking</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"><i class="fas fa-table-tennis me-2"></i>Facilities</a>

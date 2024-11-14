@@ -55,7 +55,7 @@
                         <li><i class="fas fa-check me-2"></i>Basic Equipment</li>
                         <li><i class="fas fa-check me-2"></i>Lounge Access</li>
                     </ul>
-                    <a href="#" class="btn btn-primary">Book Now</a>
+                    <a href="{{ url('/pages/booking') }}" class="btn btn-primary">Book Now</a>
                 </div>
             </div>
             
